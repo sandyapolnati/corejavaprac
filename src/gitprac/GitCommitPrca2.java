@@ -1,6 +1,6 @@
 package gitprac;
 
-public class GitCommitPrca {
+public class GitCommitPrca2 {
 
 	public static void main(String[] args) {
 		
