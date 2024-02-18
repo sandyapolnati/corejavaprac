@@ -4,7 +4,7 @@ public class Addition implements IAddition{
 
 	@Override
 	public int add(int a, int b) {
-		System.out.println(" print add method()");
+		System.out.println(" print numbers add method()");
 		 return a+b;
 	}
 
